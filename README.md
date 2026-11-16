@@ -1,4 +1,4 @@
-# -student-performance-eda
+# student-performance-eda
 # Student Performance Data Analysis
 
 ### Exploratory Data Analysis using Python
